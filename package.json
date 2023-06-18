@@ -1,0 +1,32 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "homework 01 nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRKDEV/goit-nodejs-hw-01.git"
+  },
+  "keywords": [
+    "homework",
+    "nodejs"
+  ],
+  "author": "KRKDEV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KRKDEV/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/KRKDEV/goit-nodejs-hw-01",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
